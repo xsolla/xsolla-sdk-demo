@@ -26,8 +26,6 @@ Visit the hosted SDK Explorer:
 2. Browse available SDKs and select the one relevant to your platform.
 3. Use the interactive explorer to test API calls and view code snippets.
 
-![SDK Explorer preview](./readme-assets/explorer.png)
-
 Local development instructions will be added in a future release.
 
 ## Documentation
@@ -42,4 +40,4 @@ Local development instructions will be added in a future release.
 
 ## License
 
-⚠️ **No LICENSE file found in this repository.** License terms are unspecified. Please add a LICENSE file before distributing or referencing this project externally.
+MIT License. See [LICENSE](./LICENSE).
