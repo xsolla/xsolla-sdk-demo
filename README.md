@@ -1,22 +1,45 @@
-# Xsolla SDK Demo
+# xsolla-sdk-demo
 
 ![Status](https://img.shields.io/badge/status-coming%20soon-blue)
 
-⭐ **Star this repo** — Full rollout details at GDC 2026.
+## Overview
 
-## About
+The Xsolla SDK Demo is an interactive SDK Explorer that lets developers browse and test Xsolla SDK capabilities without writing code. It is currently in active development with a full rollout planned following GDC 2026.
 
-The Xsolla SDK Demo showcases the capabilities of the Xsolla SDK across platforms. Currently in development — stay tuned for updates as we prepare for release.
+A live hosted version of the SDK Explorer is available today at [developers.xsolla.com/sdk/demo/](https://developers.xsolla.com/sdk/demo/).
 
-## SDK Explorer
+## Requirements
 
-See exactly how payments work before writing a single line of code. The SDK Explorer lets you walk through authentication, catalog loading, purchasing, and finalization — all in an interactive environment.
+> This project is currently in development. Requirements will be published with the first stable release.
 
-[![SDK Explorer — interactive demo of Xsolla Mobile SDK payment flow](readme-assets/explorer.png)](https://developers.xsolla.com/sdk/demo/)
+- **Xsolla Publisher Account:** Required to use SDK features — [sign up here](https://publisher.xsolla.com/)
 
-[**Integrate Now →**](https://developers.xsolla.com/sdk/demo/)
+## Install
 
-## Links
+> Installation instructions will be provided when the project reaches its first stable release. In the meantime, explore the hosted SDK Explorer at [developers.xsolla.com/sdk/demo/](https://developers.xsolla.com/sdk/demo/).
 
-- [SDK Explorer](https://developers.xsolla.com/sdk/demo/) — Try the SDK Explorer
-- [SDK Documentation](https://developers.xsolla.com/sdk/) — Full documentation and integration guides
+## Usage
+
+Visit the hosted SDK Explorer:
+
+1. Navigate to [developers.xsolla.com/sdk/demo/](https://developers.xsolla.com/sdk/demo/)
+2. Browse available SDKs and select the one relevant to your platform.
+3. Use the interactive explorer to test API calls and view code snippets.
+
+![SDK Explorer preview](./readme-assets/explorer.png)
+
+Local development instructions will be added in a future release.
+
+## Documentation
+
+- [Xsolla SDK documentation](https://developers.xsolla.com/sdk/)
+- [SDK Explorer (hosted)](https://developers.xsolla.com/sdk/demo/)
+
+## Support
+
+- [GitHub Issues](https://github.com/xsolla/xsolla-sdk-demo/issues)
+- [Xsolla Developer Portal](https://developers.xsolla.com/)
+
+## License
+
+⚠️ **No LICENSE file found in this repository.** License terms are unspecified. Please add a LICENSE file before distributing or referencing this project externally.
