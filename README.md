@@ -2,11 +2,19 @@
 
 ![Status](https://img.shields.io/badge/status-coming%20soon-blue)
 
-## Overview
+⭐ **Star this repo** — Full rollout details at GDC 2026.
 
-The Xsolla SDK Demo is an interactive SDK Explorer that lets developers browse and test Xsolla SDK capabilities without writing code. It is currently in active development with a full rollout planned following GDC 2026.
+## About
 
-A live hosted version of the SDK Explorer is available today at [developers.xsolla.com/sdk/demo/](https://developers.xsolla.com/sdk/demo/).
+The Xsolla SDK Demo showcases the capabilities of the Xsolla SDK across platforms. Currently in development — stay tuned for updates as we prepare for release.
+
+## SDK Explorer
+
+See exactly how payments work before writing a single line of code. The SDK Explorer lets you walk through authentication, catalog loading, purchasing, and finalization — all in an interactive environment.
+
+[![SDK Explorer — interactive demo of Xsolla Mobile SDK payment flow](readme-assets/explorer.png)](https://developers.xsolla.com/sdk/demo/)
+
+[**Integrate Now →**](https://developers.xsolla.com/sdk/demo/)
 
 ## Requirements
 
@@ -28,10 +36,10 @@ Visit the hosted SDK Explorer:
 
 Local development instructions will be added in a future release.
 
-## Documentation
+## Links
 
-- [Xsolla SDK documentation](https://developers.xsolla.com/sdk/)
-- [SDK Explorer (hosted)](https://developers.xsolla.com/sdk/demo/)
+- [SDK Explorer](https://developers.xsolla.com/sdk/demo/) — Try the SDK Explorer
+- [SDK Documentation](https://developers.xsolla.com/sdk/) — Full documentation and integration guides
 
 ## Support
 
